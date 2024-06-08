@@ -1,0 +1,3 @@
+Dataset used : https://www.kaggle.com/datasets/salader/dogs-vs-cats/data
+5000 images of cats
+5000 images of dogs
