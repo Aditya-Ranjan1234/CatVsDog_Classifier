@@ -9,6 +9,7 @@ The model is trained on a dataset of 5000 cat and dog images and achieves a reas
 ## Installation
 
 Clone the repository:
+
     ```
     git clone https://github.com/Aditya-Ranjan1234/CatVsDog_Classifier.git
 
